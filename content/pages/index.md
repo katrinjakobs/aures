@@ -86,7 +86,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: Kartlegging av lytteutvikling og kommunikasjon
         subtitle: ''
         text: "Vi gjennomfører omfattende kartlegging av klientens lytteutvikling og kommunikasjonsevner for å tilpasse treningsoppleggene best mulig.\_\n"
         image:
