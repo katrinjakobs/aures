@@ -165,7 +165,7 @@ sections:
           og støtte.
         image:
           type: ImageBlock
-          url: /images/Samarbeid-40.png
+          url: /images/empathy-logo.svg
           altText: Placeholder text
           elementId: ''
           styles:
