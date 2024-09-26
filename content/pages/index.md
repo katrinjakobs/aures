@@ -159,10 +159,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Vi hjelper til med søknadsprosessen for å få tilgang til nødvendig
+          hørselsteknisk utstyr. Vår veiledning sikrer at du får riktig utstyr
+          og støtte.
         image:
           type: ImageBlock
           url: /images/icon1.svg
