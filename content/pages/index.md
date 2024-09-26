@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Rådgivningskontor for hørsel
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Personlig rådgivning
     text: >
