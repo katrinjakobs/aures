@@ -13,7 +13,7 @@ sections:
       å høre bedre og kommunisere tydeligere – for et rikere og mer meningsfylt
       liv.
     actions:
-      - label: Get started
+      - label: Ta kontakt
         altText: ''
         url: /
         showIcon: false
