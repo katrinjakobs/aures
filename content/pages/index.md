@@ -157,7 +157,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: Søknadshjelp for hørselteknisk utstyr
         subtitle: ''
         text: >
           Vi hjelper til med søknadsprosessen for å få tilgang til nødvendig
