@@ -110,7 +110,6 @@ sections:
         subtitle: ''
         text: "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr.\_Vi\_viser hvordan du kan få mest ut av disse hjelpemidlene.\n\n"
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
