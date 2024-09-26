@@ -185,7 +185,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Tinnitusbehandling og oppfølging
+        title: Tinnitus-behandling og oppfølging
         subtitle: ''
         text: >
           Dette inkluderer TV-streamere, samtaleforsterkere og annet
