@@ -158,7 +158,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Vi hjelper til med søknadsprosessen for å få tilgang til nødvendig
           hørselsteknisk utstyr. Vår veiledning sikrer at du får riktig utstyr
