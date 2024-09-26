@@ -209,7 +209,7 @@ sections:
             textAlign: left
     actions: []
     badge:
-      label: Vår behandling
+      label: Audiopedagogiske tjenester
       color: text-primary
       styles:
         self:
