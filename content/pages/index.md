@@ -349,7 +349,7 @@ sections:
       label: Contact Us
       color: text-light
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     type: GenericSection
   - title:
       text: Business Consulting
