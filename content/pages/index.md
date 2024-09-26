@@ -106,25 +106,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 'Opplæring i hørselsteksniske hjelpemidler '
-        subtitle: ''
-        text: "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr.\_Vi\_viser hvordan du kan få mest ut av disse hjelpemidlene.\n\n"
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: Veiledning for brukere og deres nettverk
         subtitle: ''
@@ -152,6 +133,25 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+      - title: 'Opplæring i hørselsteksniske hjelpemidler '
+        subtitle: ''
+        text: "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr.\_Vi\_viser hvordan du kan få mest ut av disse hjelpemidlene.\n\n"
+        image:
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - type: FeaturedItem
         title: Søknadshjelp for hørselteknisk utstyr
         subtitle: ''
