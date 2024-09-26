@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Dette er behandlingene du kan få hos oss
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Lytte- og språktrening for hørselshemmede
