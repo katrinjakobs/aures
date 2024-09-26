@@ -161,7 +161,6 @@ sections:
           og støtte.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
           altText: Placeholder text
           elementId: ''
           styles:
