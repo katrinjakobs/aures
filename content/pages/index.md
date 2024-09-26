@@ -347,7 +347,7 @@ sections:
         elementId: null
     badge:
       label: Contact Us
-      color: text-light
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
