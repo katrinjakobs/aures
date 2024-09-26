@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: NOE TEKST HER KANSKJE
       color: text-light
       type: Badge
     elementId: ''
