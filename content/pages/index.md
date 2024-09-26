@@ -131,10 +131,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Dette inkluderer familien, samt ansatte i skoler og barnehager, slik
+          at alle forstår hvordan de best kan støtte og tilrettelegge for
+          personer med hørselsutfordringer.
         image:
           type: ImageBlock
           url: /images/icon1.svg
