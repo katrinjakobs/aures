@@ -130,7 +130,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Dette inkluderer familien, samt ansatte i skoler og barnehager, slik
           at alle forstår hvordan de best kan støtte og tilrettelegge for
