@@ -61,7 +61,7 @@ sections:
     subtitle: Dette er behandlingene du kan få hos oss
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Lytte- og språktrening for hørselshemmede
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
