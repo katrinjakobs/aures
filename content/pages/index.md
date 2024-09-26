@@ -155,10 +155,11 @@ sections:
       - type: FeaturedItem
         title: Søknadshjelp for hørselteknisk utstyr
         subtitle: ''
-        text: >
+        text: >+
           Vi hjelper til med søknadsprosessen for å få tilgang til nødvendig
           hørselsteknisk utstyr. Vår veiledning sikrer at du får riktig utstyr
           og støtte.
+
         image:
           type: ImageBlock
           altText: Placeholder text
