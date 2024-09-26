@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Priser",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Ta kontakt",
             "altText": "Blog",
             "url": "/blog",
