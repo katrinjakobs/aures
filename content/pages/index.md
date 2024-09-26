@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Personlig rådgivning
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Aures tilbyr skreddersydd audiopedagogisk behandling for å hjelpe deg med
+      å høre bedre og kommunisere tydeligere – for et rikere og mer meningsfylt
+      liv.
     actions:
       - label: Get started
         altText: ''
