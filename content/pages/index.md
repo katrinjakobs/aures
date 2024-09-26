@@ -110,10 +110,7 @@ sections:
         type: FeaturedItem
       - title: 'Opplæring i hørselsteksniske hjelpemidler '
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr.\_Vi\_viser hvordan du kan få mest ut av disse hjelpemidlene.\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
