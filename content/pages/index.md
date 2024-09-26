@@ -294,7 +294,7 @@ sections:
     type: DividerSection
   - title:
       text: Generic Section With A Form
-      color: text-primary
+      color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |-
