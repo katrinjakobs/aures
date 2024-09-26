@@ -129,7 +129,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: 500k
+        title: Veiledning for brukere og deres nettverk
         subtitle: ''
         text: >
           Dette inkluderer familien, samt ansatte i skoler og barnehager, slik
