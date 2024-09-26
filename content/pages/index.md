@@ -186,7 +186,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Dette inkluderer TV-streamere, samtaleforsterkere og annet
           hørselsteknisk utstyr. Våre eksperter viser hvordan du kan få mest
