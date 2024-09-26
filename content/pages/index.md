@@ -165,7 +165,7 @@ sections:
           og støtte.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Samarbeid-40.png
           altText: Placeholder text
           elementId: ''
           styles:
