@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Drevet av [Netlify Create](https://www.netlify.com/platform/create/)\n",
     "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
