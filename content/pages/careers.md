@@ -11,8 +11,8 @@ sections:
         self:
           textAlign: left
     people:
-      - content/data/person1.json
       - content/data/person2.json
+      - content/data/person1.json
     actions: []
     variant: four-col-grid
     colors: bg-light-fg-dark
