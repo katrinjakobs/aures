@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Kontor for rådgivning av hørsel
+      text: Rådgivningskontor for hørsel
       color: text-light
       type: TitleBlock
     subtitle: ''
