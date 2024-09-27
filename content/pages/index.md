@@ -292,6 +292,13 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
 seo:
   metaTitle: Aures - Rådgivningskontor for hørsel
   metaDescription: ''
