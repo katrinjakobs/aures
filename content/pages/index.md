@@ -51,7 +51,7 @@ sections:
           - pb-16
           - pr-16
   - type: DividerSection
-    title: ''
+    title: Divider
     elementId: ''
     colors: bg-dark-fg-light
     styles:
