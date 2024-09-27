@@ -65,7 +65,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Ta kontakt
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Kontaktinformasjon og skjema
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
