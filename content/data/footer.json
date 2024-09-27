@@ -19,7 +19,7 @@
             },
             {
                 "label": "Priser",
-                "url": "/pricing",
+                "url": "/priser",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
