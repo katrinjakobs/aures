@@ -24,7 +24,7 @@
         {
             "label": "Om oss",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/om-oss",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
