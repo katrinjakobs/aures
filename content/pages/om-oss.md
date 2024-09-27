@@ -27,7 +27,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Om oss
   metaDescription: Våre ansatte
   socialImage: /images/main-hero.jpg
   type: Seo
