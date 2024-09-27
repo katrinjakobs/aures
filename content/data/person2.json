@@ -30,7 +30,10 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center"
+            "justifyContent": "center",
+            "margin": [
+                "ml-36"
+            ]
         }
     },
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
