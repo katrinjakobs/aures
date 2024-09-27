@@ -49,7 +49,7 @@ sections:
           - pt-14
           - pl-11
           - pb-14
-          - pr-14
+          - pr-11
   - type: FeaturedItemsSection
     title:
       text: Vår behandling
