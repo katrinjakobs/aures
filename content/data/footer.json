@@ -39,16 +39,7 @@
     },
     "secondaryLinks": {
         "title": "",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
