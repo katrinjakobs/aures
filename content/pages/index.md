@@ -294,7 +294,7 @@ sections:
           width: full
           type: EmailFormControl
         - type: EmailFormControl
-          name: email
+          name: Telefon
           label: Email
           hideLabel: true
           placeholder: Telefonnummer
