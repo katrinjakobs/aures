@@ -22,7 +22,7 @@
             "padding": [
                 "pt-6",
                 "pb-6",
-                "pl-40",
+                "pl-0",
                 "pr-24"
             ],
             "textAlign": "center",
