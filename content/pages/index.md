@@ -299,17 +299,6 @@ sections:
           - pl-10
           - pb-10
           - pr-10
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
 seo:
   metaTitle: Aures - Rådgivningskontor for hørsel
   metaDescription: ''
