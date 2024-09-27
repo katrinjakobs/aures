@@ -60,7 +60,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: Kontakt
+slug: kontakt
 isDraft: false
 seo:
   type: Seo
