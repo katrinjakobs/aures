@@ -299,7 +299,7 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Hva trenger du hjelp med?
-          width: 1/2
+          width: full
           type: TextareaFormControl
       elementId: contact-form
       styles:
