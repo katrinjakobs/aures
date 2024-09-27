@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Om oss
 slug: careers
 sections:
   - title:
