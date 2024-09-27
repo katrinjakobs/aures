@@ -13,20 +13,9 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Priser",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Våre tjenester",
             "altText": "",
-            "url": "/blog",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -35,11 +24,22 @@
         {
             "label": "Om oss",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/om-oss",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Priser",
+            "altText": "",
+            "url": "/priser",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
