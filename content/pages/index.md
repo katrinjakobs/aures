@@ -46,10 +46,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-4
-          - pl-4
-          - pb-4
-          - pr-4
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: FeaturedItemsSection
     title:
       text: Vår behandling
