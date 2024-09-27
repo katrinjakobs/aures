@@ -67,6 +67,6 @@ seo:
   metaTitle: Ta kontakt
   metaDescription: Kontaktinformasjon og skjema
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Hovedlogo_mbg.png
   metaTags: []
 ---
