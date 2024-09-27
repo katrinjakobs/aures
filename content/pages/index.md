@@ -290,7 +290,7 @@ sections:
           name: Telefon
           label: Telefon
           hideLabel: true
-          placeholder: Your name
+          placeholder: Telefon
           isRequired: true
           width: full
         - name: E-post
