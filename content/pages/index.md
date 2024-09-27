@@ -321,7 +321,7 @@ sections:
         style: secondary
         elementId: null
     badge:
-      label: Contact Us
+      label: Kontakt oss
       color: text-dark
       type: Badge
     colors: bg-light-fg-dark
