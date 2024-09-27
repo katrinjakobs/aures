@@ -1,6 +1,6 @@
 ---
 title: Om oss
-slug: careers
+slug: om-oss
 sections:
   - type: FeaturedPeopleSection
     title:
