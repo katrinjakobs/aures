@@ -298,7 +298,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Hva trenger du hjelp med?
           width: full
           type: TextareaFormControl
       elementId: contact-form
