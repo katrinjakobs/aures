@@ -2,6 +2,7 @@
     "logo": {
         "url": "/images/logo-white.svg",
         "altText": "Logo light",
+        "height": 50%,
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
