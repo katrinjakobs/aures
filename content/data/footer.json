@@ -38,32 +38,14 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "title": "",
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "altText": "Instagram link",
+            "url": "https://instagram.com/audiopedagog",
             "icon": "instagram",
             "type": "Social"
         },
@@ -71,12 +53,6 @@
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/runa-jakobsdottir-094076158/",
             "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/runa@aures.no",
-            "icon": "mail",
             "type": "Social"
         }
     ],
