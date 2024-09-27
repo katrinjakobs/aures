@@ -286,6 +286,13 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - name: E-post
           label: E-post
           hideLabel: true
