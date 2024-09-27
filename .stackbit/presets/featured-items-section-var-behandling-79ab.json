@@ -1,0 +1,262 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Vår behandling",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "aures"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Vår behandling",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Lytte- og språktrening for hørselshemmede",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Vi tilbyr skreddersydd trening for personer med cochlea-implantat (CI) og høreapparat for å forbedre lytteferdigheter og språkforståelse. \n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Kartlegging av lytteutvikling og kommunikasjon",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Vi gjennomfører omfattende kartlegging av klientens lytteutvikling og kommunikasjonsevner for å tilpasse treningsoppleggene best mulig. \n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Featured icon two",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "textAlign": "left",
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Veiledning for brukere og deres nettverk",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Dette inkluderer familien, samt ansatte i skoler og barnehager, slik at alle forstår hvordan de best kan støtte og tilrettelegge for personer med hørselsutfordringer.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Placeholder text",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Opplæring i hørselsteksniske hjelpemidler ",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr. Vi viser hvordan du kan få mest ut av disse hjelpemidlene.\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Featured icon three",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Søknadshjelp for hørselteknisk utstyr",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Vi hjelper til med søknadsprosessen for å få tilgang til nødvendig hørselsteknisk utstyr. Vår veiledning sikrer at du får riktig utstyr og støtte.\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Placeholder text",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Tinnitus-behandling og oppfølging",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": "Dette inkluderer TV-streamere, samtaleforsterkere og annet hørselsteknisk utstyr. Våre eksperter viser hvordan du kan få mest mulig ut av disse hjelpemidlene.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Placeholder text",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Audiopedagogiske tjenester",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-10",
+                            "pt-10",
+                            "pl-10",
+                            "pr-10"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-var-behandling-79ab.png"
+        }
+    ]
+}
