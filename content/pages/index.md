@@ -287,7 +287,7 @@ sections:
           width: full
           type: TextFormControl
         - name: E-post
-          label: Email
+          label: E-post
           hideLabel: true
           placeholder: E-post
           isRequired: true
