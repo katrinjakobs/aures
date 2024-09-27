@@ -1,16 +1,16 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/liten-logo7.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Rådgivningskontor for hørsel\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Kontaktinformasjon",
+                "altText": "Kontakt",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,12 +18,13 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Priser",
+                "url": "/priser",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Priser"
             },
             {
                 "label": "Documentation",
@@ -63,24 +64,18 @@
         {
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "icon": "instagram",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/runa-jakobsdottir-094076158/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/runa@aures.no",
             "icon": "mail",
             "type": "Social"
         }
@@ -104,6 +99,6 @@
         }
     ],
     "copyrightText": "Drevet av [Netlify Create](https://www.netlify.com/platform/create/)\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
