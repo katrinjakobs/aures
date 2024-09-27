@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: NOE TEKST HER KANSKJE
+      label: Personlig audiopedagogisk behandling
       color: text-light
       type: Badge
     elementId: ''
