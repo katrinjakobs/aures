@@ -236,7 +236,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/Logo_hvit_liten.png
+      - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
