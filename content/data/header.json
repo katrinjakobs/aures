@@ -15,7 +15,7 @@
         {
             "label": "Våre tjenester",
             "altText": "",
-            "url": "/",
+            "url": "/tjenester",
             "icon": "",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,7 +23,7 @@
         },
         {
             "label": "Om oss",
-            "altText": "Careers page",
+            "altText": "Om oss",
             "url": "/om-oss",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -33,7 +33,7 @@
         {
             "type": "Link",
             "label": "Priser",
-            "altText": "",
+            "altText": "Priser",
             "url": "/priser",
             "showIcon": false,
             "icon": "arrowRight",
