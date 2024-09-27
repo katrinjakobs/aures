@@ -16,7 +16,7 @@
             "label": "Våre tjenester",
             "altText": "",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
@@ -46,7 +46,7 @@
         {
             "label": "Ta kontakt",
             "altText": "Sign up",
-            "url": "/",
+            "url": "/kontakt",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
