@@ -28,7 +28,7 @@
             "textAlign": "center",
             "borderColor": "border-neutral",
             "borderStyle": "solid",
-            "borderWidth": 0,
+            "borderWidth": 4,
             "borderRadius": "none",
             "justifyContent": "center"
         }
