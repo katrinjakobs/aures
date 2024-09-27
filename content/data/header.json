@@ -33,7 +33,7 @@
         {
             "type": "Link",
             "label": "Priser",
-            "altText": "",
+            "altText": "Priser",
             "url": "/priser",
             "showIcon": false,
             "icon": "arrowRight",
