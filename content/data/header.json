@@ -15,7 +15,7 @@
         {
             "label": "Våre tjenester",
             "altText": "",
-            "url": "/",
+            "url": "/tjenester",
             "icon": "",
             "iconPosition": "right",
             "style": "secondary",
