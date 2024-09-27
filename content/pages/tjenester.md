@@ -179,7 +179,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: tjenester
+slug: /tjenester
 isDraft: false
 seo:
   type: Seo
