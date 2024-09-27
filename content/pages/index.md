@@ -288,7 +288,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: Telefon
-          label: Name
+          label: Telefon
           hideLabel: true
           placeholder: Your name
           isRequired: true
