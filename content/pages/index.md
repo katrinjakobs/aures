@@ -297,7 +297,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Telefonnummer
           isRequired: true
           width: full
         - name: message
