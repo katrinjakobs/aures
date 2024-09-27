@@ -3,7 +3,7 @@ title: Om oss
 slug: careers
 sections:
   - title:
-      text: Meet the team
+      text: Våre ansatte
       color: text-dark
       styles:
         self:
