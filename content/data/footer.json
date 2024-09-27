@@ -72,12 +72,6 @@
             "url": "https://www.linkedin.com/in/runa-jakobsdottir-094076158/",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/runa@aures.no",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
