@@ -287,7 +287,7 @@ sections:
           width: full
           type: TextFormControl
         - type: TextFormControl
-          name: name
+          name: Telefon
           label: Name
           hideLabel: true
           placeholder: Your name
