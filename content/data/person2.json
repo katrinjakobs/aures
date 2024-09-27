@@ -22,8 +22,8 @@
             "padding": [
                 "pt-6",
                 "pb-6",
-                "pl-0",
-                "pr-24"
+                "pl-6",
+                "pr-6"
             ],
             "textAlign": "center",
             "borderColor": "border-neutral",
