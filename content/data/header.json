@@ -13,6 +13,15 @@
     },
     "primaryLinks": [
         {
+            "label": "Våre tjenester",
+            "altText": "",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "Link",
             "label": "Priser",
             "altText": "",
@@ -22,15 +31,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Våre tjenester",
-            "altText": "",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
             "label": "Om oss",
