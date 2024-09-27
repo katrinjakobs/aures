@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Priser
 slug: pricing
 sections:
   - title:
