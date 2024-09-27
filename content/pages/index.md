@@ -286,13 +286,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - type: TextFormControl
-          name: Telefon
-          label: Telefon
-          hideLabel: true
-          placeholder: Telefon
-          isRequired: true
-          width: full
         - name: E-post
           label: E-post
           hideLabel: true
@@ -300,6 +293,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Telefon
+          label: Telefon
+          hideLabel: true
+          placeholder: Telefon
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
