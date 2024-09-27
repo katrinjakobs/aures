@@ -66,7 +66,7 @@ sections:
         text: "Vi tilbyr skreddersydd trening for personer med cochlea-implantat (CI) og høreapparat for å forbedre lytteferdigheter og språkforståelse.\_\n"
         actions: []
         elementId: null
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
