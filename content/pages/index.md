@@ -270,35 +270,33 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: Fyll ut skjemaet for å komme i kontakt
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Vi ønsker å høre fra deg! Hvis du har spørsmål, ønsker mer informasjon,
+      eller ønsker å bestille en time, vennligst ta kontakt med oss.
     media:
       fields:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Fullt navn
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: E-post
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Hva trenger du hjelp med?
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -316,28 +314,18 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: null
     badge:
-      label: Contact Us
+      label: Kontakt oss
       color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
