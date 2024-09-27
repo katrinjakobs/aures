@@ -57,6 +57,9 @@
         "self": {
             "padding": [
                 "pl-0"
+            ],
+            "margin": [
+                "ml-3"
             ]
         }
     }
