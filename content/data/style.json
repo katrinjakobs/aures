@@ -4,8 +4,8 @@
     "neutral": "#D0E2F4",
     "neutralAlt": "#FFFEF4",
     "primary": "#021F3A",
-    "fontBody": "",
-    "fontHeadlines": "",
+    "fontBody": "sans",
+    "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
         "weight": "normal",
@@ -15,7 +15,7 @@
         "type": "ThemeStyleHeading"
     },
     "h2": {
-        "size": "5xl",
+        "size": "4xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",

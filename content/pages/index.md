@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Rådgivningskontor for hørsel
+      text: Kontor for rådgivning av hørsel
       color: text-light
       type: TitleBlock
-    subtitle: Personlig rådgivning
+    subtitle: ''
     text: >
       Aures tilbyr skreddersydd audiopedagogisk behandling for å hjelpe deg med
       å høre bedre og kommunisere tydeligere – for et rikere og mer meningsfylt
@@ -46,10 +46,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-14
-          - pb-16
-          - pr-16
+          - pt-14
+          - pl-11
+          - pb-20
+          - pr-11
   - type: FeaturedItemsSection
     title:
       text: Vår behandling
@@ -80,7 +80,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           styles:
             self:
@@ -221,10 +221,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-10
+          - pt-10
+          - pl-10
+          - pr-10
         justifyContent: center
       subtitle:
         textAlign: center
@@ -286,13 +286,20 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
-          label: Email
+        - name: E-post
+          label: E-post
           hideLabel: true
           placeholder: E-post
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Telefon
+          label: Telefon
+          hideLabel: true
+          placeholder: Telefon
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
