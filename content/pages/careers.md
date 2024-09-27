@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
     people:
       - content/data/person1.json
       - content/data/person2.json
