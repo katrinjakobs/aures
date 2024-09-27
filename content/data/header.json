@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/favicon.svg",
+        "url": "/images/logo-dark.svg",
         "altText": "Logo",
         "styles": {
             "self": {
@@ -52,5 +52,21 @@
     ],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-2",
+                "pr-2",
+                "pt-2",
+                "pb-2"
+            ],
+            "margin": [
+                "ml-0",
+                "mt-0",
+                "mb-0",
+                "mr-0"
+            ]
+        }
+    }
 }
