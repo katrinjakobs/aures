@@ -32,7 +32,6 @@ seo:
   socialImage: /images/Hovedlogo_mbg.png
   type: Seo
   addTitleSuffix: false
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
