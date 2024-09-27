@@ -293,13 +293,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - type: EmailFormControl
-          name: Telefon
-          label: Telefon
-          hideLabel: true
-          placeholder: Telefonnummer
-          isRequired: true
-          width: full
         - name: message
           label: Message
           hideLabel: true
