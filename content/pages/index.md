@@ -295,7 +295,7 @@ sections:
           type: EmailFormControl
         - type: EmailFormControl
           name: Telefon
-          label: Email
+          label: Telefon
           hideLabel: true
           placeholder: Telefonnummer
           isRequired: true
