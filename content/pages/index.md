@@ -270,7 +270,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Ta kontakt
+      text: Fyll ut skjemat for å komme i kontakt
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
