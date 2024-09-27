@@ -56,7 +56,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-2"
+                "pl-2",
+                "pr-2"
             ],
             "margin": [
                 "ml-0",
