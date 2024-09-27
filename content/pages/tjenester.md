@@ -162,7 +162,7 @@ sections:
     badge:
       type: Badge
       label: Audiopedagogiske tjenester
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
