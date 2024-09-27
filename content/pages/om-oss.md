@@ -29,7 +29,7 @@ sections:
 seo:
   metaTitle: Om oss
   metaDescription: Våre ansatte
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Hovedlogo_mbg.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
