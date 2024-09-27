@@ -34,7 +34,7 @@
             "type": "Link",
             "label": "Priser",
             "altText": "",
-            "url": "/",
+            "url": "/priser",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
