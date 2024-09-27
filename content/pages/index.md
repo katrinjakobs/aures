@@ -80,7 +80,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           styles:
             self:
