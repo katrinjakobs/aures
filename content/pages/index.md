@@ -295,7 +295,7 @@ sections:
 seo:
   metaTitle: Aures - Rådgivningskontor for hørsel
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Hovedlogo_mbg.png
   type: Seo
 type: PageLayout
 isDraft: false
