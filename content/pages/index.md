@@ -273,7 +273,7 @@ sections:
       text: Fyll ut skjemaet for å komme i kontakt
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Vi ønsker å høre fra deg! Hvis du har spørsmål, ønsker mer informasjon,
       eller ønsker å bestille en time, vennligst ta kontakt med oss.
