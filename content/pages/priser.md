@@ -1,6 +1,6 @@
 ---
 title: Priser
-slug: pricing
+slug: priser
 sections:
   - title:
       text: Flexible Pricing
