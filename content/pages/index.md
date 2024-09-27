@@ -7,7 +7,7 @@ sections:
       text: Rådgivningkontor for hørsel
       color: text-light
       type: TitleBlock
-    subtitle: Personlig rådgivning
+    subtitle: ''
     text: >
       Aures tilbyr skreddersydd audiopedagogisk behandling for å hjelpe deg med
       å høre bedre og kommunisere tydeligere – for et rikere og mer meningsfylt
